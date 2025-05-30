@@ -1,0 +1,14 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll

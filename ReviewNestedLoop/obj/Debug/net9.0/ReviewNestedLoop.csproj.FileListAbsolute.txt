@@ -1,0 +1,14 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ReviewNestedLoop\bin\Debug\net9.0\ReviewNestedLoop.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ReviewNestedLoop\bin\Debug\net9.0\ReviewNestedLoop.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ReviewNestedLoop\bin\Debug\net9.0\ReviewNestedLoop.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ReviewNestedLoop\bin\Debug\net9.0\ReviewNestedLoop.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ReviewNestedLoop\bin\Debug\net9.0\ReviewNestedLoop.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\refint\ReviewNestedLoop.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ref\ReviewNestedLoop.dll

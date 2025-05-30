@@ -1,0 +1,14 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FirstDegree\bin\Debug\net9.0\FirstDegree.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FirstDegree\bin\Debug\net9.0\FirstDegree.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FirstDegree\bin\Debug\net9.0\FirstDegree.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FirstDegree\bin\Debug\net9.0\FirstDegree.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FirstDegree\bin\Debug\net9.0\FirstDegree.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FirstDegree\obj\Debug\net9.0\FirstDegree.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FirstDegree\obj\Debug\net9.0\FirstDegree.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FirstDegree\obj\Debug\net9.0\FirstDegree.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FirstDegree\obj\Debug\net9.0\FirstDegree.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FirstDegree\obj\Debug\net9.0\FirstDegree.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FirstDegree\obj\Debug\net9.0\refint\FirstDegree.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FirstDegree\obj\Debug\net9.0\FirstDegree.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FirstDegree\obj\Debug\net9.0\FirstDegree.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FirstDegree\obj\Debug\net9.0\ref\FirstDegree.dll
