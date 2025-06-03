@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\",
+  "WorkspaceRootPath": "D:\\fbt\\PRN212_SE1852\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACEDCC8F-C3F5-4461-AF32-8449D4BEDF6A}|OOP5_Clone\\OOP5_Clone.csproj|d:\\fpt\\prn212-basis cross-platform csharp\\pratice\\prn212_se1852\\oop5_clone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACEDCC8F-C3F5-4461-AF32-8449D4BEDF6A}|OOP5_Clone\\OOP5_Clone.csproj|d:\\fbt\\prn212_se1852\\oop5_clone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACEDCC8F-C3F5-4461-AF32-8449D4BEDF6A}|OOP5_Clone\\OOP5_Clone.csproj|solutionrelative:oop5_clone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACEDCC8F-C3F5-4461-AF32-8449D4BEDF6A}|OOP5_Clone\\OOP5_Clone.csproj|d:\\fpt\\prn212-basis cross-platform csharp\\pratice\\prn212_se1852\\oop5_clone\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACEDCC8F-C3F5-4461-AF32-8449D4BEDF6A}|OOP5_Clone\\OOP5_Clone.csproj|d:\\fbt\\prn212_se1852\\oop5_clone\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACEDCC8F-C3F5-4461-AF32-8449D4BEDF6A}|OOP5_Clone\\OOP5_Clone.csproj|solutionrelative:oop5_clone\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,19 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\OOP5_Clone\\Customer.cs",
+              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\OOP5_Clone\\Customer.cs",
               "RelativeDocumentMoniker": "OOP5_Clone\\Customer.cs",
-              "ToolTip": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\OOP5_Clone\\Customer.cs",
+              "ToolTip": "D:\\fbt\\PRN212_SE1852\\OOP5_Clone\\Customer.cs",
               "RelativeToolTip": "OOP5_Clone\\Customer.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\OOP5_Clone\\Program.cs",
+              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\OOP5_Clone\\Program.cs",
               "RelativeDocumentMoniker": "OOP5_Clone\\Program.cs",
-              "ToolTip": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\OOP5_Clone\\Program.cs",
+              "ToolTip": "D:\\fbt\\PRN212_SE1852\\OOP5_Clone\\Program.cs",
               "RelativeToolTip": "OOP5_Clone\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T02:11:15.026Z",
               "EditorCaption": ""
