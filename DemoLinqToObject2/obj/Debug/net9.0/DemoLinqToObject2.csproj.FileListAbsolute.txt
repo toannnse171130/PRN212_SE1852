@@ -1,0 +1,14 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DemoLinqToObject2\bin\Debug\net9.0\DemoLinqToObject2.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DemoLinqToObject2\bin\Debug\net9.0\DemoLinqToObject2.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DemoLinqToObject2\bin\Debug\net9.0\DemoLinqToObject2.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DemoLinqToObject2\bin\Debug\net9.0\DemoLinqToObject2.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DemoLinqToObject2\bin\Debug\net9.0\DemoLinqToObject2.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DemoLinqToObject2\obj\Debug\net9.0\DemoLinqToObject2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DemoLinqToObject2\obj\Debug\net9.0\DemoLinqToObject2.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DemoLinqToObject2\obj\Debug\net9.0\DemoLinqToObject2.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DemoLinqToObject2\obj\Debug\net9.0\DemoLinqToObject2.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DemoLinqToObject2\obj\Debug\net9.0\DemoLinqToObject2.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DemoLinqToObject2\obj\Debug\net9.0\refint\DemoLinqToObject2.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DemoLinqToObject2\obj\Debug\net9.0\DemoLinqToObject2.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DemoLinqToObject2\obj\Debug\net9.0\DemoLinqToObject2.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DemoLinqToObject2\obj\Debug\net9.0\ref\DemoLinqToObject2.dll

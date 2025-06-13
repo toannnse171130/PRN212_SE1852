@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\fbt\\PRN212_SE1852\\ReviewFor\\ReviewFor.csproj": {}
+    "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\ReviewFor\\ReviewFor.csproj": {}
   },
   "projects": {
-    "D:\\fbt\\PRN212_SE1852\\ReviewFor\\ReviewFor.csproj": {
+    "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\ReviewFor\\ReviewFor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\fbt\\PRN212_SE1852\\ReviewFor\\ReviewFor.csproj",
+        "projectUniqueName": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\ReviewFor\\ReviewFor.csproj",
         "projectName": "ReviewFor",
-        "projectPath": "D:\\fbt\\PRN212_SE1852\\ReviewFor\\ReviewFor.csproj",
-        "packagesPath": "C:\\Users\\alvin\\.nuget\\packages\\",
-        "outputPath": "D:\\fbt\\PRN212_SE1852\\ReviewFor\\obj\\",
+        "projectPath": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\ReviewFor\\ReviewFor.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\ReviewFor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\alvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +46,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -66,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
