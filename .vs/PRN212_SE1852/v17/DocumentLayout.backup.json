@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\fbt\\PRN212_SE1852\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACEDCC8F-C3F5-4461-AF32-8449D4BEDF6A}|OOP5_Clone\\OOP5_Clone.csproj|d:\\fbt\\prn212_se1852\\oop5_clone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACEDCC8F-C3F5-4461-AF32-8449D4BEDF6A}|OOP5_Clone\\OOP5_Clone.csproj|solutionrelative:oop5_clone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B524FCB-773B-4495-9812-FE15455F2792}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\fbt\\prn212_se1852\\buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B524FCB-773B-4495-9812-FE15455F2792}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACEDCC8F-C3F5-4461-AF32-8449D4BEDF6A}|OOP5_Clone\\OOP5_Clone.csproj|d:\\fbt\\prn212_se1852\\oop5_clone\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACEDCC8F-C3F5-4461-AF32-8449D4BEDF6A}|OOP5_Clone\\OOP5_Clone.csproj|solutionrelative:oop5_clone\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B524FCB-773B-4495-9812-FE15455F2792}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\fbt\\prn212_se1852\\buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B524FCB-773B-4495-9812-FE15455F2792}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B524FCB-773B-4495-9812-FE15455F2792}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\fbt\\prn212_se1852\\buttoncontrol_tonghop\\images\\sum.png||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0B524FCB-773B-4495-9812-FE15455F2792}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\images\\sum.png||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B524FCB-773B-4495-9812-FE15455F2792}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\fbt\\prn212_se1852\\buttoncontrol_tonghop\\images\\thoat.png||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0B524FCB-773B-4495-9812-FE15455F2792}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\images\\thoat.png||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,26 +31,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\OOP5_Clone\\Customer.cs",
-              "RelativeDocumentMoniker": "OOP5_Clone\\Customer.cs",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\OOP5_Clone\\Customer.cs",
-              "RelativeToolTip": "OOP5_Clone\\Customer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\fbt\\PRN212_SE1852\\ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T02:11:23.667Z"
+              "WhenOpened": "2025-06-13T01:15:11.111Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\OOP5_Clone\\Program.cs",
-              "RelativeDocumentMoniker": "OOP5_Clone\\Program.cs",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\OOP5_Clone\\Program.cs",
-              "RelativeToolTip": "OOP5_Clone\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T02:11:15.026Z",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\ButtonControl_TongHop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml",
+              "ToolTip": "D:\\fbt\\PRN212_SE1852\\ButtonControl_TongHop\\MainWindow.xaml",
+              "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T01:15:07.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "thoat.png",
+              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\ButtonControl_TongHop\\Images\\thoat.png",
+              "RelativeDocumentMoniker": "ButtonControl_TongHop\\Images\\thoat.png",
+              "ToolTip": "D:\\fbt\\PRN212_SE1852\\ButtonControl_TongHop\\Images\\thoat.png",
+              "RelativeToolTip": "ButtonControl_TongHop\\Images\\thoat.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T01:13:20.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sum.png",
+              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\ButtonControl_TongHop\\Images\\Sum.png",
+              "RelativeDocumentMoniker": "ButtonControl_TongHop\\Images\\Sum.png",
+              "ToolTip": "D:\\fbt\\PRN212_SE1852\\ButtonControl_TongHop\\Images\\Sum.png",
+              "RelativeToolTip": "ButtonControl_TongHop\\Images\\Sum.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T01:13:02.646Z",
               "EditorCaption": ""
             }
           ]
