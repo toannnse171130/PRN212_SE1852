@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoMyStoreLINQ2SQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad20e05f065970f636342041aaad1355c5dd6ea4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoMyStoreLINQ2SQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoMyStoreLINQ2SQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
