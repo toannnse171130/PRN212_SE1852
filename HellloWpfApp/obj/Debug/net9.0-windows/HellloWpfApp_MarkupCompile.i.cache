@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\fbt\PRN212_SE1852\HellloWpfApp\obj\Debug\net9.0-windows\
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\HellloWpfApp\obj\Debug\net9.0-windows\
 HellloWpfApp
 none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-D:\fbt\PRN212_SE1852\HellloWpfApp\App.xaml
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\HellloWpfApp\App.xaml
 2-216653475
 
 71159469012
-200-56570838
+200-423684338
 LoginWindow.xaml;MainWindow.xaml;
 
 False

@@ -1,0 +1,2 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\WpfApp1\obj\Debug\net9.0-windows\App.g.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\WpfApp1\obj\Debug\net9.0-windows\WpfApp1_MarkupCompile.cache

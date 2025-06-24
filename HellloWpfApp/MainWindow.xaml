@@ -5,18 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HellloWpfApp"
         mc:Ignorable="d"
-        Title="SE171130_Nguyen Ngoc Toan" Height="450" Width="800" WindowStyle="ThreeDBorderWindow" WindowStartupLocation="CenterScreen">
+        Title="20.456-Trần Duy Thanh" Height="450" Width="800" WindowStyle="ThreeDBorderWindow" WindowStartupLocation="CenterScreen">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="32*"/>
-            <ColumnDefinition Width="143*"/>
-            <ColumnDefinition Width="625*"/>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="25*"/>
         </Grid.ColumnDefinitions>
-        <Label Content="Hello My Name Is" HorizontalAlignment="Left" Margin="17,59,0,0" VerticalAlignment="Top" Height="60" Width="416" Foreground="#FFD21B85" FontSize="30" Grid.Column="2">
+        <Label Content="Tôi là Trần Duy Thanh" HorizontalAlignment="Left" Margin="17,59,0,0" VerticalAlignment="Top" Height="60" Width="416" Foreground="#FFD21B85" FontSize="30" Grid.Column="1">
             <Label.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="Black"/>
-                    <GradientStop Color="#FF52DA17" Offset="0.42"/>
+                    <GradientStop Color="#FF8AD16B" Offset="1"/>
                 </LinearGradientBrush>
             </Label.Background>
         </Label>

@@ -1,0 +1,4 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ObjectModel\obj\Debug\net9.0\ObjectModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ObjectModel\obj\Debug\net9.0\ObjectModel.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ObjectModel\obj\Debug\net9.0\ObjectModel.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ObjectModel\obj\Debug\net9.0\ObjectModel.csproj.CoreCompileInputs.cache

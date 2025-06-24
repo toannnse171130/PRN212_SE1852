@@ -1,0 +1,14 @@
+﻿<Window x:Class="UserManagementWpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UserManagementWpfApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Danh Sách Users:" HorizontalAlignment="Left" Margin="45,29,0,0" VerticalAlignment="Top" FontSize="36"/>
+        <ListBox x:Name="lbUser" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="45,87,85,37" FontSize="24"/>
+
+    </Grid>
+</Window>
