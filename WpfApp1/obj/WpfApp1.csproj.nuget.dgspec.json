@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\WpfApp1\\WpfApp1.csproj": {}
+    "D:\\fbt\\PRN212_SE1852\\WpfApp1\\WpfApp1.csproj": {}
   },
   "projects": {
-    "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\ObjectModel\\ObjectModel.csproj": {
+    "D:\\fbt\\PRN212_SE1852\\ObjectModel\\ObjectModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\ObjectModel\\ObjectModel.csproj",
+        "projectUniqueName": "D:\\fbt\\PRN212_SE1852\\ObjectModel\\ObjectModel.csproj",
         "projectName": "ObjectModel",
-        "projectPath": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\ObjectModel\\ObjectModel.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\ObjectModel\\obj\\",
+        "projectPath": "D:\\fbt\\PRN212_SE1852\\ObjectModel\\ObjectModel.csproj",
+        "packagesPath": "C:\\Users\\alvin\\.nuget\\packages\\",
+        "outputPath": "D:\\fbt\\PRN212_SE1852\\ObjectModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,7 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -67,25 +66,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\ViewModel\\ViewModel.csproj": {
+    "D:\\fbt\\PRN212_SE1852\\ViewModel\\ViewModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\ViewModel\\ViewModel.csproj",
+        "projectUniqueName": "D:\\fbt\\PRN212_SE1852\\ViewModel\\ViewModel.csproj",
         "projectName": "ViewModel",
-        "projectPath": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\ViewModel\\ViewModel.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\ViewModel\\obj\\",
+        "projectPath": "D:\\fbt\\PRN212_SE1852\\ViewModel\\ViewModel.csproj",
+        "packagesPath": "C:\\Users\\alvin\\.nuget\\packages\\",
+        "outputPath": "D:\\fbt\\PRN212_SE1852\\ViewModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -94,15 +92,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\ObjectModel\\ObjectModel.csproj": {
-                "projectPath": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\ObjectModel\\ObjectModel.csproj"
+              "D:\\fbt\\PRN212_SE1852\\ObjectModel\\ObjectModel.csproj": {
+                "projectPath": "D:\\fbt\\PRN212_SE1852\\ObjectModel\\ObjectModel.csproj"
               }
             }
           }
@@ -117,7 +115,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -138,25 +136,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\WpfApp1\\WpfApp1.csproj": {
+    "D:\\fbt\\PRN212_SE1852\\WpfApp1\\WpfApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\WpfApp1\\WpfApp1.csproj",
+        "projectUniqueName": "D:\\fbt\\PRN212_SE1852\\WpfApp1\\WpfApp1.csproj",
         "projectName": "WpfApp1",
-        "projectPath": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\WpfApp1\\WpfApp1.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\WpfApp1\\obj\\",
+        "projectPath": "D:\\fbt\\PRN212_SE1852\\WpfApp1\\WpfApp1.csproj",
+        "packagesPath": "C:\\Users\\alvin\\.nuget\\packages\\",
+        "outputPath": "D:\\fbt\\PRN212_SE1852\\WpfApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -165,15 +162,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0-windows7.0": {
             "targetAlias": "net9.0-windows",
             "projectReferences": {
-              "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\ViewModel\\ViewModel.csproj": {
-                "projectPath": "D:\\FPT\\PRN212-Basis Cross-Platform CSharp\\Pratice\\PRN212_SE1852\\ViewModel\\ViewModel.csproj"
+              "D:\\fbt\\PRN212_SE1852\\ViewModel\\ViewModel.csproj": {
+                "projectPath": "D:\\fbt\\PRN212_SE1852\\ViewModel\\ViewModel.csproj"
               }
             }
           }
@@ -188,7 +185,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0-windows7.0": {
@@ -212,7 +209,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

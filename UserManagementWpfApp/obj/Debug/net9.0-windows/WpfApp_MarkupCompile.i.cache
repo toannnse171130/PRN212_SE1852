@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\UserManagementWpfApp\obj\Debug\net9.0-windows\
+D:\fbt\PRN212_SE1852\UserManagementWpfApp\obj\Debug\net9.0-windows\
 WpfApp
 none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\UserManagementWpfApp\App.xaml
+D:\fbt\PRN212_SE1852\UserManagementWpfApp\App.xaml
 21485226850
 
 7-750721197
-2041002608353
+204201852937
 MainWindow.xaml;ProductWindow.xaml;
 
 False

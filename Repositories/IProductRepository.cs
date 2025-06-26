@@ -12,5 +12,6 @@ namespace Repositories
         public List<Product> GetProducts();
         public void InitializeDataset();
         public bool SaveProduct(Product p);
+        public bool UpdateProduct(Product p);
     }
 }
