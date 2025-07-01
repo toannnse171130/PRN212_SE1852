@@ -1,0 +1,17 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DataAccessLayer_EF\bin\Debug\net9.0\DataAccessLayer_EF.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DataAccessLayer_EF\bin\Debug\net9.0\DataAccessLayer_EF.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DataAccessLayer_EF\bin\Debug\net9.0\DataAccessLayer_EF.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DataAccessLayer_EF\bin\Debug\net9.0\DataAccessLayer_EF.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DataAccessLayer_EF\obj\Debug\net9.0\DataAccessLayer_EF.csproj.AssemblyReference.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DataAccessLayer_EF\obj\Debug\net9.0\DataAccessLayer_EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DataAccessLayer_EF\obj\Debug\net9.0\DataAccessLayer_EF.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DataAccessLayer_EF\obj\Debug\net9.0\DataAccessLayer_EF.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DataAccessLayer_EF\obj\Debug\net9.0\DataAccessLayer_EF.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DataAccessLayer_EF\obj\Debug\net9.0\DataAccessLayer_EF.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DataAccessLayer_EF\obj\Debug\net9.0\refint\DataAccessLayer_EF.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DataAccessLayer_EF\obj\Debug\net9.0\DataAccessLayer_EF.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DataAccessLayer_EF\obj\Debug\net9.0\DataAccessLayer_EF.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DataAccessLayer_EF\obj\Debug\net9.0\ref\DataAccessLayer_EF.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DataAccessLayer_EF\bin\Debug\net9.0\BusinessObjects_EF.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DataAccessLayer_EF\bin\Debug\net9.0\BusinessObjects_EF.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\DataAccessLayer_EF\obj\Debug\net9.0\DataAcce.B2464013.Up2Date

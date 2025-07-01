@@ -12,6 +12,11 @@ namespace Repositories
     {
         ProductDAO productsDAO = new ProductDAO();
 
+        public bool DeleteProduct(int id)
+        {
+            return productsDAO.DeleteProduct(id);
+        }
+
         public List<Product> GetProducts()
         {
             return productsDAO.GetProducts();

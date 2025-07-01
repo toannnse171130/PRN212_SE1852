@@ -1,0 +1,17 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EF\bin\Debug\net9.0\Repositories_EF.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EF\bin\Debug\net9.0\Repositories_EF.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EF\bin\Debug\net9.0\Repositories_EF.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EF\bin\Debug\net9.0\BusinessObjects_EF.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EF\bin\Debug\net9.0\DataAccessLayer_EF.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EF\bin\Debug\net9.0\BusinessObjects_EF.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EF\bin\Debug\net9.0\DataAccessLayer_EF.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EF\obj\Debug\net9.0\Repositories_EF.csproj.AssemblyReference.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EF\obj\Debug\net9.0\Repositories_EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EF\obj\Debug\net9.0\Repositories_EF.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EF\obj\Debug\net9.0\Repositories_EF.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EF\obj\Debug\net9.0\Repositories_EF.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EF\obj\Debug\net9.0\Reposito.FFD7EF5A.Up2Date
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EF\obj\Debug\net9.0\Repositories_EF.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EF\obj\Debug\net9.0\refint\Repositories_EF.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EF\obj\Debug\net9.0\Repositories_EF.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EF\obj\Debug\net9.0\ref\Repositories_EF.dll

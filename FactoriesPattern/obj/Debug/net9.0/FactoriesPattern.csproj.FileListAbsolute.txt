@@ -12,3 +12,17 @@ D:\Elearning\CrossPlatform_CSharp\Chapter5\FactoriesPattern\obj\Debug\net9.0\ref
 D:\Elearning\CrossPlatform_CSharp\Chapter5\FactoriesPattern\obj\Debug\net9.0\FactoriesPattern.pdb
 D:\Elearning\CrossPlatform_CSharp\Chapter5\FactoriesPattern\obj\Debug\net9.0\FactoriesPattern.genruntimeconfig.cache
 D:\Elearning\CrossPlatform_CSharp\Chapter5\FactoriesPattern\obj\Debug\net9.0\ref\FactoriesPattern.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FactoriesPattern\bin\Debug\net9.0\FactoriesPattern.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FactoriesPattern\bin\Debug\net9.0\FactoriesPattern.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FactoriesPattern\bin\Debug\net9.0\FactoriesPattern.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FactoriesPattern\bin\Debug\net9.0\FactoriesPattern.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FactoriesPattern\bin\Debug\net9.0\FactoriesPattern.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FactoriesPattern\obj\Debug\net9.0\FactoriesPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FactoriesPattern\obj\Debug\net9.0\FactoriesPattern.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FactoriesPattern\obj\Debug\net9.0\FactoriesPattern.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FactoriesPattern\obj\Debug\net9.0\FactoriesPattern.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FactoriesPattern\obj\Debug\net9.0\FactoriesPattern.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FactoriesPattern\obj\Debug\net9.0\refint\FactoriesPattern.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FactoriesPattern\obj\Debug\net9.0\FactoriesPattern.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FactoriesPattern\obj\Debug\net9.0\FactoriesPattern.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\FactoriesPattern\obj\Debug\net9.0\ref\FactoriesPattern.dll

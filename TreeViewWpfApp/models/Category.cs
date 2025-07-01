@@ -10,10 +10,13 @@ namespace TreeViewWpfApp.models
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public Dictionary<int, Product> Products { get; set; }
-        public Category()
+        public Dictionary<int,Product> Products { get; set; }
+        public Category() { 
+            Products= new Dictionary<int,Product>();    
+        }
+        public override string ToString()
         {
-            Products = new Dictionary<int, Product>();
+            return Id+"\t"+Name;
         }
     }
 }

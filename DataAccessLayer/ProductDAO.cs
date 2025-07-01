@@ -30,16 +30,22 @@ namespace DataAccessLayer
             products.Add(p);//thêm mới thành công
             return true;
         }
-
         public bool UpdateProduct(Product p)
         {
             Product old = products.FirstOrDefault(x => x.Id == p.Id);
             if (old == null)
-                return false;//cập nhật thất bại vì không tìm thấy sản phẩm
-            //cập nhật thành công:
+                return false;//sửa thất bại vì ko tìm thấy mã sản phẩm
             old.Name = p.Name;
             old.Quantity = p.Quantity;
             old.Price = p.Price;
+            return true;
+        }
+        public bool DeleteProduct(int id)
+        {
+            Product old = products.FirstOrDefault(x => x.Id == id);
+            if (old == null)
+                return false;//xóa thất bại vì ko tìm thấy mã sản phẩm
+            products.Remove(old);
             return true;
         }
     }

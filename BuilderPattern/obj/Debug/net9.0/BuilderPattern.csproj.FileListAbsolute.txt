@@ -12,3 +12,17 @@ D:\Elearning\CrossPlatform_CSharp\Chapter5\BuilderPattern\obj\Debug\net9.0\refin
 D:\Elearning\CrossPlatform_CSharp\Chapter5\BuilderPattern\obj\Debug\net9.0\BuilderPattern.pdb
 D:\Elearning\CrossPlatform_CSharp\Chapter5\BuilderPattern\obj\Debug\net9.0\BuilderPattern.genruntimeconfig.cache
 D:\Elearning\CrossPlatform_CSharp\Chapter5\BuilderPattern\obj\Debug\net9.0\ref\BuilderPattern.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BuilderPattern\bin\Debug\net9.0\BuilderPattern.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BuilderPattern\bin\Debug\net9.0\BuilderPattern.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BuilderPattern\bin\Debug\net9.0\BuilderPattern.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BuilderPattern\bin\Debug\net9.0\BuilderPattern.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BuilderPattern\bin\Debug\net9.0\BuilderPattern.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BuilderPattern\obj\Debug\net9.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BuilderPattern\obj\Debug\net9.0\BuilderPattern.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BuilderPattern\obj\Debug\net9.0\BuilderPattern.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BuilderPattern\obj\Debug\net9.0\BuilderPattern.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BuilderPattern\obj\Debug\net9.0\BuilderPattern.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BuilderPattern\obj\Debug\net9.0\refint\BuilderPattern.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BuilderPattern\obj\Debug\net9.0\BuilderPattern.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BuilderPattern\obj\Debug\net9.0\BuilderPattern.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BuilderPattern\obj\Debug\net9.0\ref\BuilderPattern.dll

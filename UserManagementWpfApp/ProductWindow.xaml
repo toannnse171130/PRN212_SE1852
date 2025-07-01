@@ -11,7 +11,7 @@
             <ColumnDefinition Width="77*"/>
             <ColumnDefinition Width="3*"/>
         </Grid.ColumnDefinitions>
-        <ListView x:Name="lvProduct" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,0,10,315" FontSize="24" Grid.ColumnSpan="2">
+        <ListView x:Name="lvProduct" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,0,10,315" FontSize="24" Grid.ColumnSpan="2" SelectionChanged="lvProduct_SelectionChanged">
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="Mã sản phẩm"
@@ -38,6 +38,8 @@
         <Label Content="Đơn giá:" HorizontalAlignment="Left" Margin="50,436,0,0" VerticalAlignment="Top" FontSize="24"/>
         <TextBox x:Name="txtDonGia" HorizontalAlignment="Left" Margin="260,438,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="425" FontSize="24"/>
         <Button Content="Lưu mới Product" HorizontalAlignment="Left" Margin="260,478,0,0" VerticalAlignment="Top" FontSize="24" Click="Button_Click"/>
+        <Button x:Name="btnCapNhat" Content="Cập nhật" HorizontalAlignment="Left" Margin="472,480,0,0" VerticalAlignment="Top" FontSize="22" Width="108" Click="btnCapNhat_Click"/>
+        <Button x:Name="btnXoa" Content="Xóa" HorizontalAlignment="Left" Margin="620,480,0,0" VerticalAlignment="Top" FontSize="22" Width="80" Click="btnXoa_Click"/>
 
     </Grid>
 </Window>

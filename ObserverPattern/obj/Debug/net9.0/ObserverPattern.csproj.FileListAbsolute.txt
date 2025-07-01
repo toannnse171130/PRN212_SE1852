@@ -12,3 +12,17 @@ D:\Elearning\CrossPlatform_CSharp\Chapter5\ObserverPattern\obj\Debug\net9.0\refi
 D:\Elearning\CrossPlatform_CSharp\Chapter5\ObserverPattern\obj\Debug\net9.0\ObserverPattern.pdb
 D:\Elearning\CrossPlatform_CSharp\Chapter5\ObserverPattern\obj\Debug\net9.0\ObserverPattern.genruntimeconfig.cache
 D:\Elearning\CrossPlatform_CSharp\Chapter5\ObserverPattern\obj\Debug\net9.0\ref\ObserverPattern.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ObserverPattern\bin\Debug\net9.0\ObserverPattern.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ObserverPattern\bin\Debug\net9.0\ObserverPattern.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ObserverPattern\bin\Debug\net9.0\ObserverPattern.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ObserverPattern\bin\Debug\net9.0\ObserverPattern.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ObserverPattern\bin\Debug\net9.0\ObserverPattern.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ObserverPattern\obj\Debug\net9.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ObserverPattern\obj\Debug\net9.0\ObserverPattern.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ObserverPattern\obj\Debug\net9.0\ObserverPattern.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ObserverPattern\obj\Debug\net9.0\ObserverPattern.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ObserverPattern\obj\Debug\net9.0\ObserverPattern.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ObserverPattern\obj\Debug\net9.0\refint\ObserverPattern.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ObserverPattern\obj\Debug\net9.0\ObserverPattern.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ObserverPattern\obj\Debug\net9.0\ObserverPattern.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\ObserverPattern\obj\Debug\net9.0\ref\ObserverPattern.dll

@@ -1,0 +1,11 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EF\bin\Debug\net9.0\BusinessObjects_EF.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EF\bin\Debug\net9.0\BusinessObjects_EF.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EF\bin\Debug\net9.0\BusinessObjects_EF.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EF\obj\Debug\net9.0\BusinessObjects_EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EF\obj\Debug\net9.0\BusinessObjects_EF.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EF\obj\Debug\net9.0\BusinessObjects_EF.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EF\obj\Debug\net9.0\BusinessObjects_EF.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EF\obj\Debug\net9.0\BusinessObjects_EF.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EF\obj\Debug\net9.0\refint\BusinessObjects_EF.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EF\obj\Debug\net9.0\BusinessObjects_EF.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EF\obj\Debug\net9.0\ref\BusinessObjects_EF.dll
