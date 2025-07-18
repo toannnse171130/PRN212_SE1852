@@ -3,76 +3,16 @@
   "WorkspaceRootPath": "D:\\fbt\\PRN212_SE1852\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C574373-04A5-4A92-8674-92E161B094C9}|HellloWpfApp\\HellloWpfApp.csproj|d:\\fbt\\prn212_se1852\\helllowpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8C574373-04A5-4A92-8674-92E161B094C9}|HellloWpfApp\\HellloWpfApp.csproj|solutionrelative:helllowpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{BEDF1D86-B981-4588-B5CA-EF8DBC4E11C8}|TreeViewWpfApp\\TreeViewWpfApp.csproj|d:\\fbt\\prn212_se1852\\treeviewwpfapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDF1D86-B981-4588-B5CA-EF8DBC4E11C8}|TreeViewWpfApp\\TreeViewWpfApp.csproj|solutionrelative:treeviewwpfapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C574373-04A5-4A92-8674-92E161B094C9}|HellloWpfApp\\HellloWpfApp.csproj|d:\\fbt\\prn212_se1852\\helllowpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8C574373-04A5-4A92-8674-92E161B094C9}|HellloWpfApp\\HellloWpfApp.csproj|solutionrelative:helllowpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{BEDF1D86-B981-4588-B5CA-EF8DBC4E11C8}|TreeViewWpfApp\\TreeViewWpfApp.csproj|d:\\fbt\\prn212_se1852\\treeviewwpfapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDF1D86-B981-4588-B5CA-EF8DBC4E11C8}|TreeViewWpfApp\\TreeViewWpfApp.csproj|solutionrelative:treeviewwpfapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C574373-04A5-4A92-8674-92E161B094C9}|HellloWpfApp\\HellloWpfApp.csproj|d:\\fbt\\prn212_se1852\\helllowpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C574373-04A5-4A92-8674-92E161B094C9}|HellloWpfApp\\HellloWpfApp.csproj|solutionrelative:helllowpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C574373-04A5-4A92-8674-92E161B094C9}|HellloWpfApp\\HellloWpfApp.csproj|d:\\fbt\\prn212_se1852\\helllowpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8C574373-04A5-4A92-8674-92E161B094C9}|HellloWpfApp\\HellloWpfApp.csproj|solutionrelative:helllowpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C574373-04A5-4A92-8674-92E161B094C9}|HellloWpfApp\\HellloWpfApp.csproj|d:\\fbt\\prn212_se1852\\helllowpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C574373-04A5-4A92-8674-92E161B094C9}|HellloWpfApp\\HellloWpfApp.csproj|solutionrelative:helllowpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37752BC4-E2F5-421B-B115-F6DE0180C312}|LucyDemoLINQ2SQL\\LucyDemoLINQ2SQL.csproj|d:\\fbt\\prn212_se1852\\lucydemolinq2sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37752BC4-E2F5-421B-B115-F6DE0180C312}|LucyDemoLINQ2SQL\\LucyDemoLINQ2SQL.csproj|solutionrelative:lucydemolinq2sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F804D0BF-9227-4A0D-9102-B3D441B1821F}|DemoMyStoreLINQ2SQL\\DemoMyStoreLINQ2SQL.csproj|d:\\fbt\\prn212_se1852\\demomystorelinq2sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F804D0BF-9227-4A0D-9102-B3D441B1821F}|DemoMyStoreLINQ2SQL\\DemoMyStoreLINQ2SQL.csproj|solutionrelative:demomystorelinq2sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F804D0BF-9227-4A0D-9102-B3D441B1821F}|DemoMyStoreLINQ2SQL\\DemoMyStoreLINQ2SQL.csproj|d:\\fbt\\prn212_se1852\\demomystorelinq2sql\\mystore.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F804D0BF-9227-4A0D-9102-B3D441B1821F}|DemoMyStoreLINQ2SQL\\DemoMyStoreLINQ2SQL.csproj|solutionrelative:demomystorelinq2sql\\mystore.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37752BC4-E2F5-421B-B115-F6DE0180C312}|LucyDemoLINQ2SQL\\LucyDemoLINQ2SQL.csproj|d:\\fbt\\prn212_se1852\\lucydemolinq2sql\\lucy_salesdata.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
-      "RelativeMoniker": "D:0:0:{37752BC4-E2F5-421B-B115-F6DE0180C312}|LucyDemoLINQ2SQL\\LucyDemoLINQ2SQL.csproj|solutionrelative:lucydemolinq2sql\\lucy_salesdata.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F804D0BF-9227-4A0D-9102-B3D441B1821F}|DemoMyStoreLINQ2SQL\\DemoMyStoreLINQ2SQL.csproj|d:\\fbt\\prn212_se1852\\demomystorelinq2sql\\mystore.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
-      "RelativeMoniker": "D:0:0:{F804D0BF-9227-4A0D-9102-B3D441B1821F}|DemoMyStoreLINQ2SQL\\DemoMyStoreLINQ2SQL.csproj|solutionrelative:demomystorelinq2sql\\mystore.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF44CB5E-C81E-4928-9461-F73108D5F020}|DemoLinqToObject2\\DemoLinqToObject2.csproj|d:\\fbt\\prn212_se1852\\demolinqtoobject2\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF44CB5E-C81E-4928-9461-F73108D5F020}|DemoLinqToObject2\\DemoLinqToObject2.csproj|solutionrelative:demolinqtoobject2\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF44CB5E-C81E-4928-9461-F73108D5F020}|DemoLinqToObject2\\DemoLinqToObject2.csproj|d:\\fbt\\prn212_se1852\\demolinqtoobject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF44CB5E-C81E-4928-9461-F73108D5F020}|DemoLinqToObject2\\DemoLinqToObject2.csproj|solutionrelative:demolinqtoobject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF44CB5E-C81E-4928-9461-F73108D5F020}|DemoLinqToObject2\\DemoLinqToObject2.csproj|d:\\fbt\\prn212_se1852\\demolinqtoobject2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF44CB5E-C81E-4928-9461-F73108D5F020}|DemoLinqToObject2\\DemoLinqToObject2.csproj|solutionrelative:demolinqtoobject2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACEDCC8F-C3F5-4461-AF32-8449D4BEDF6A}|OOP5_Clone\\OOP5_Clone.csproj|d:\\fbt\\prn212_se1852\\oop5_clone\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACEDCC8F-C3F5-4461-AF32-8449D4BEDF6A}|OOP5_Clone\\OOP5_Clone.csproj|solutionrelative:oop5_clone\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB83CA4A-3F8A-4FA9-BED0-865121C71FF1}|DemoLinqToObject\\DemoLinqToObject.csproj|d:\\fbt\\prn212_se1852\\demolinqtoobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB83CA4A-3F8A-4FA9-BED0-865121C71FF1}|DemoLinqToObject\\DemoLinqToObject.csproj|solutionrelative:demolinqtoobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{996A3D5C-DDCC-4DFC-9B72-F1C2DC262382}|DemoDelegate1\\DemoDelegate1.csproj|d:\\fbt\\prn212_se1852\\demodelegate1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{996A3D5C-DDCC-4DFC-9B72-F1C2DC262382}|DemoDelegate1\\DemoDelegate1.csproj|solutionrelative:demodelegate1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACEDCC8F-C3F5-4461-AF32-8449D4BEDF6A}|OOP5_Clone\\OOP5_Clone.csproj|d:\\fbt\\prn212_se1852\\oop5_clone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACEDCC8F-C3F5-4461-AF32-8449D4BEDF6A}|OOP5_Clone\\OOP5_Clone.csproj|solutionrelative:oop5_clone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACEDCC8F-C3F5-4461-AF32-8449D4BEDF6A}|OOP5_Clone\\OOP5_Clone.csproj|d:\\fbt\\prn212_se1852\\oop5_clone\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACEDCC8F-C3F5-4461-AF32-8449D4BEDF6A}|OOP5_Clone\\OOP5_Clone.csproj|solutionrelative:oop5_clone\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEDF1D86-B981-4588-B5CA-EF8DBC4E11C8}|TreeViewWpfApp\\TreeViewWpfApp.csproj|d:\\fbt\\prn212_se1852\\treeviewwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BEDF1D86-B981-4588-B5CA-EF8DBC4E11C8}|TreeViewWpfApp\\TreeViewWpfApp.csproj|solutionrelative:treeviewwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,221 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\HellloWpfApp\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HellloWpfApp\\LoginWindow.xaml.cs",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\HellloWpfApp\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "HellloWpfApp\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAuwCcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T00:40:31.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\HellloWpfApp\\App.xaml",
-              "RelativeDocumentMoniker": "HellloWpfApp\\App.xaml",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\HellloWpfApp\\App.xaml",
-              "RelativeToolTip": "HellloWpfApp\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-13T00:36:33.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\HellloWpfApp\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "HellloWpfApp\\LoginWindow.xaml",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\HellloWpfApp\\LoginWindow.xaml",
-              "RelativeToolTip": "HellloWpfApp\\LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-13T00:30:57.327Z",
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\TreeViewWpfApp\\models\\Product.cs",
+              "RelativeDocumentMoniker": "TreeViewWpfApp\\models\\Product.cs",
+              "ToolTip": "D:\\fbt\\PRN212_SE1852\\TreeViewWpfApp\\models\\Product.cs",
+              "RelativeToolTip": "TreeViewWpfApp\\models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:59:03.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\HellloWpfApp\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "HellloWpfApp\\MainWindow.xaml",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\HellloWpfApp\\MainWindow.xaml",
-              "RelativeToolTip": "HellloWpfApp\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-13T00:19:18.728Z",
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\TreeViewWpfApp\\models\\Category.cs",
+              "RelativeDocumentMoniker": "TreeViewWpfApp\\models\\Category.cs",
+              "ToolTip": "D:\\fbt\\PRN212_SE1852\\TreeViewWpfApp\\models\\Category.cs",
+              "RelativeToolTip": "TreeViewWpfApp\\models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:58:23.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\HellloWpfApp\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HellloWpfApp\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\HellloWpfApp\\MainWindow.xaml.cs",
-              "RelativeToolTip": "HellloWpfApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T00:19:17.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Lucy_SalesData.dbml",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\LucyDemoLINQ2SQL\\Lucy_SalesData.dbml",
-              "RelativeDocumentMoniker": "LucyDemoLINQ2SQL\\Lucy_SalesData.dbml",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\LucyDemoLINQ2SQL\\Lucy_SalesData.dbml",
-              "RelativeToolTip": "LucyDemoLINQ2SQL\\Lucy_SalesData.dbml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
-              "WhenOpened": "2025-06-06T01:40:26.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\LucyDemoLINQ2SQL\\Program.cs",
-              "RelativeDocumentMoniker": "LucyDemoLINQ2SQL\\Program.cs",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\LucyDemoLINQ2SQL\\Program.cs",
-              "RelativeToolTip": "LucyDemoLINQ2SQL\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T01:31:57.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MyStore.designer.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\DemoMyStoreLINQ2SQL\\MyStore.designer.cs",
-              "RelativeDocumentMoniker": "DemoMyStoreLINQ2SQL\\MyStore.designer.cs",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\DemoMyStoreLINQ2SQL\\MyStore.designer.cs",
-              "RelativeToolTip": "DemoMyStoreLINQ2SQL\\MyStore.designer.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAwCsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T02:09:50.663Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MyStore.dbml",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\DemoMyStoreLINQ2SQL\\MyStore.dbml",
-              "RelativeDocumentMoniker": "DemoMyStoreLINQ2SQL\\MyStore.dbml",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\DemoMyStoreLINQ2SQL\\MyStore.dbml",
-              "RelativeToolTip": "DemoMyStoreLINQ2SQL\\MyStore.dbml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
-              "WhenOpened": "2025-06-03T02:05:33.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\DemoMyStoreLINQ2SQL\\Program.cs",
-              "RelativeDocumentMoniker": "DemoMyStoreLINQ2SQL\\Program.cs",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\DemoMyStoreLINQ2SQL\\Program.cs",
-              "RelativeToolTip": "DemoMyStoreLINQ2SQL\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T02:01:32.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ListProduct.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\DemoLinqToObject2\\ListProduct.cs",
-              "RelativeDocumentMoniker": "DemoLinqToObject2\\ListProduct.cs",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\DemoLinqToObject2\\ListProduct.cs",
-              "RelativeToolTip": "DemoLinqToObject2\\ListProduct.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAkwDAAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T01:19:37.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\DemoLinqToObject2\\Product.cs",
-              "RelativeDocumentMoniker": "DemoLinqToObject2\\Product.cs",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\DemoLinqToObject2\\Product.cs",
-              "RelativeToolTip": "DemoLinqToObject2\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T01:18:17.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\DemoLinqToObject2\\Program.cs",
-              "RelativeDocumentMoniker": "DemoLinqToObject2\\Program.cs",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\DemoLinqToObject2\\Program.cs",
-              "RelativeToolTip": "DemoLinqToObject2\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T01:17:43.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\DemoLinqToObject\\Program.cs",
-              "RelativeDocumentMoniker": "DemoLinqToObject\\Program.cs",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\DemoLinqToObject\\Program.cs",
-              "RelativeToolTip": "DemoLinqToObject\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwCMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T01:03:34.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\DemoDelegate1\\Program.cs",
-              "RelativeDocumentMoniker": "DemoDelegate1\\Program.cs",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\DemoDelegate1\\Program.cs",
-              "RelativeToolTip": "DemoDelegate1\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAkwCgAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T00:42:04.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\OOP5_Clone\\Product.cs",
-              "RelativeDocumentMoniker": "OOP5_Clone\\Product.cs",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\OOP5_Clone\\Product.cs",
-              "RelativeToolTip": "OOP5_Clone\\Product.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAzwBQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T00:11:59.784Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\OOP5_Clone\\Customer.cs",
-              "RelativeDocumentMoniker": "OOP5_Clone\\Customer.cs",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\OOP5_Clone\\Customer.cs",
-              "RelativeToolTip": "OOP5_Clone\\Customer.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAiwA4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T02:11:23.667Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\OOP5_Clone\\Program.cs",
-              "RelativeDocumentMoniker": "OOP5_Clone\\Program.cs",
-              "ToolTip": "D:\\fbt\\PRN212_SE1852\\OOP5_Clone\\Program.cs",
-              "RelativeToolTip": "OOP5_Clone\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAQwDQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T02:11:15.026Z"
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\fbt\\PRN212_SE1852\\TreeViewWpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TreeViewWpfApp\\MainWindow.xaml",
+              "ToolTip": "D:\\fbt\\PRN212_SE1852\\TreeViewWpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "TreeViewWpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-24T00:57:35.235Z",
+              "EditorCaption": ""
             }
           ]
         }
