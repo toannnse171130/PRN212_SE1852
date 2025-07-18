@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MyStoreWpfApp_EntityFrameWork"
         mc:Ignorable="d"
-        Title="AdminWindow" Height="450" Width="800">
+        Title="AdminWindow" Height="565" Width="800">
     <DockPanel>
         <WrapPanel DockPanel.Dock="Top" Height="50" Background="Yellow">
             <Label Content="Hệ thống ADMIN quản trị STORE" FontSize="20" />
@@ -16,7 +16,7 @@
         </StackPanel>
         <TreeView DockPanel.Dock="Left" Width="250" x:Name="tvCategory" Background="Azure" SelectedItemChanged="tvCategory_SelectedItemChanged"/>
         <DockPanel Background="Cyan">
-            <ListView x:Name="lvProduct" DockPanel.Dock="Top" Height="250" Background="Magenta" FontSize="20">
+            <ListView x:Name="lvProduct" DockPanel.Dock="Top" Height="250" Background="Magenta" FontSize="20" SelectionChanged="lvProduct_SelectionChanged">
 
                 <ListView.View>
                     <GridView>
@@ -35,8 +35,21 @@
                     </GridView>
                 </ListView.View>
             </ListView>
-            <Grid Background="Beige"></Grid>
+            <Grid Background="Beige">
+                <Label Content="Mã sản phẩm:" HorizontalAlignment="Left" Margin="10,2,0,0" VerticalAlignment="Top" FontSize="20"/>
+                <TextBox x:Name="txtMa" HorizontalAlignment="Left" Margin="149,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="381" FontSize="20"/>
+                <Label Content="Tên sản phẩm:" HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top" FontSize="20"/>
+                <TextBox x:Name="txtTen" HorizontalAlignment="Left" Margin="149,44,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="381" FontSize="20"/>
+                <Label Content="Số lượng:" HorizontalAlignment="Left" Margin="11,73,0,0" VerticalAlignment="Top" FontSize="20"/>
+                <TextBox x:Name="txtSoLuong" HorizontalAlignment="Left" Margin="149,81,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="381" FontSize="20"/>
+                <Label Content="Đơn giá:" HorizontalAlignment="Left" Margin="10,108,0,0" VerticalAlignment="Top" FontSize="20"/>
+                <TextBox x:Name="txtDonGia" HorizontalAlignment="Left" Margin="150,115,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="380" FontSize="20"/>
+                <Button x:Name="btnNew" Content="New" FontSize="20" HorizontalAlignment="Left" Margin="150,164,0,0" VerticalAlignment="Top" Width="75" Click="btnNew_Click"/>
+                <Button x:Name="btnSave" Content="Save" FontSize="20" HorizontalAlignment="Left" Margin="250,164,0,0" VerticalAlignment="Top" Width="75" Click="btnSave_Click"/>
+                <Button x:Name="btnUpdate" Content="Update" FontSize="20" HorizontalAlignment="Left" Margin="350,164,0,0" VerticalAlignment="Top" Width="75" Click="btnUpdate_Click"/>
+                <Button x:Name="btnDelete" Content="Delete" FontSize="20" HorizontalAlignment="Left" Margin="445,164,0,0" VerticalAlignment="Top" Width="75" Click="btnDelete_Click"/>
+            </Grid>
         </DockPanel>
     </DockPanel>
-    
+
 </Window>

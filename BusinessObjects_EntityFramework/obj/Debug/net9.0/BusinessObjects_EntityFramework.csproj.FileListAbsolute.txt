@@ -1,0 +1,11 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EntityFramework\bin\Debug\net9.0\BusinessObjects_EntityFramework.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EntityFramework\bin\Debug\net9.0\BusinessObjects_EntityFramework.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EntityFramework\bin\Debug\net9.0\BusinessObjects_EntityFramework.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EntityFramework\obj\Debug\net9.0\BusinessObjects_EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EntityFramework\obj\Debug\net9.0\BusinessObjects_EntityFramework.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EntityFramework\obj\Debug\net9.0\BusinessObjects_EntityFramework.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EntityFramework\obj\Debug\net9.0\BusinessObjects_EntityFramework.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EntityFramework\obj\Debug\net9.0\BusinessObjects_EntityFramework.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EntityFramework\obj\Debug\net9.0\refint\BusinessObjects_EntityFramework.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EntityFramework\obj\Debug\net9.0\BusinessObjects_EntityFramework.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\BusinessObjects_EntityFramework\obj\Debug\net9.0\ref\BusinessObjects_EntityFramework.dll

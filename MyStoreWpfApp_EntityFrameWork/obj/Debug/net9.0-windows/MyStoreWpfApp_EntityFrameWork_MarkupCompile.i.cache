@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\fbt\PRN212_SE1852\MyStoreWpfApp_EntityFrameWork\obj\Debug\net9.0-windows\
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\MyStoreWpfApp_EntityFrameWork\obj\Debug\net9.0-windows\
 MyStoreWpfApp_EntityFrameWork
 none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-D:\fbt\PRN212_SE1852\MyStoreWpfApp_EntityFrameWork\App.xaml
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\MyStoreWpfApp_EntityFrameWork\App.xaml
 3-1107111578
 
 12-1507175176
-229758452271
+229-1094515220
 AdminWindow.xaml;LoginWindow.xaml;MainWindow.xaml;
 
-True
+False
 

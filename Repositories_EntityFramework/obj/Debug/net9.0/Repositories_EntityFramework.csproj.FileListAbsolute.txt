@@ -1,0 +1,17 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EntityFramework\bin\Debug\net9.0\Repositories_EntityFramework.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EntityFramework\bin\Debug\net9.0\Repositories_EntityFramework.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EntityFramework\bin\Debug\net9.0\Repositories_EntityFramework.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EntityFramework\bin\Debug\net9.0\BusinessObjects_EntityFramework.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EntityFramework\bin\Debug\net9.0\DataAccessLayer_EntityFramework.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EntityFramework\bin\Debug\net9.0\BusinessObjects_EntityFramework.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EntityFramework\bin\Debug\net9.0\DataAccessLayer_EntityFramework.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EntityFramework\obj\Debug\net9.0\Repositories_EntityFramework.csproj.AssemblyReference.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EntityFramework\obj\Debug\net9.0\Repositories_EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EntityFramework\obj\Debug\net9.0\Repositories_EntityFramework.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EntityFramework\obj\Debug\net9.0\Repositories_EntityFramework.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EntityFramework\obj\Debug\net9.0\Repositories_EntityFramework.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EntityFramework\obj\Debug\net9.0\Reposito.6305131B.Up2Date
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EntityFramework\obj\Debug\net9.0\Repositories_EntityFramework.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EntityFramework\obj\Debug\net9.0\refint\Repositories_EntityFramework.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EntityFramework\obj\Debug\net9.0\Repositories_EntityFramework.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\Repositories_EntityFramework\obj\Debug\net9.0\ref\Repositories_EntityFramework.dll
